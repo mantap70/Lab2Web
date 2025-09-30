@@ -63,7 +63,7 @@ digunakan untuk mendeklarasi elemen h1 yang berada didalam tag dengan id #intro
 
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 #### Jawaban
-Berdasarkan prioritasnya, Inline CSS akan selalu lebih diutamakan, lalu kemudian Internal CSS dan disusul oleh Eksternal CSS
+Berdasarkan prioritasnya, Inline CSS akan selalu lebih diutamakan, lalu kemudian Internal CSS dan disusul oleh Eksternal CSS <br>
 **Inline Css**
 ```html
         <p style="text-align: center; color: #ccd8e4;">Kami sedang belajar HTML dan CSS dasar, pada mata kuliah <b>Pemrograman Web</b> di
