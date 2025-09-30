@@ -91,7 +91,7 @@ Berdasarkan prioritasnya, Inline CSS akan selalu lebih diutamakan, lalu kemudian
         }
     </style>
 ```
-**Eksternal CSS**
+**Eksternal CSS** <br>
 Untuk menyambungkan file HTML dengan file CSS
 ```html
     <link rel="stylesheet" href="style.css">
@@ -146,7 +146,7 @@ nav a:hover {
 
 ---
 
-### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
+### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! (<p id="paragraf-1" class="text-paragraf">)
 #### Jawaban
 Jika terdapat id dan class dalam sebuah elemen html, maka id akan selalu di dahulukan. Karena **ID selector** memiliki tingkat prioritas lebih tinggi dibandingkan
 dengan **Class Selector**.
