@@ -39,6 +39,8 @@ Lab2Web/
 ```
 Saya Melakukan eksperimen dengan mengedit button "Informasi Selengkapnya" seperti menambahkan hover dan animasi transisi
 
+---
+
 ### 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 #### Jawaban
 Elemen h1{...} digunakan untuk mendeklarasi semua elemen h1 yang terdapat di dalam file HTML. Sedangkan, #intro h1 {...}
@@ -56,6 +58,8 @@ digunakan untuk mendeklarasi elemen h1 yang berada didalam tag dengan id #intro
     color: #fff;
 }
 ```
+
+---
 
 ### 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
 #### Jawaban
@@ -140,6 +144,8 @@ nav a:hover {
 }
 ```
 
+---
+
 ### 4. Pada sebuah elemen HTML terdapat ID dan Class, apabila masing-masing selector tersebut terdapat deklarasi CSS, maka deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )
 #### Jawaban
 Jika terdapat id dan class dalam sebuah elemen html, maka id akan selalu di dahulukan. Karena **ID selector** memiliki tingkat prioritas lebih tinggi dibandingkan
@@ -151,3 +157,5 @@ dengan **Class Selector**.
 #paragraf-1 {color: aquamarine;}
 .paragraf-1 {color: violet;}
 ```
+
+---
