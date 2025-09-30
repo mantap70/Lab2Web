@@ -1,1 +1,5 @@
-# Lab2Web
+# Praktikum CSS Dasar
+
+```
+### Nama : Fathan Atallah Rasya Nugraha
+```
